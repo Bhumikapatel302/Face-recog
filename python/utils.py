@@ -202,3 +202,4 @@ def validate_face_quality(frame: np.ndarray, face_box: Iterable[int]) -> dict:
         "occlusion": occlusion_check,
         "error_messages": messages if not all_checks_pass else []
     }
+##hdrfjkdfjld
